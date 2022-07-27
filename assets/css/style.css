@@ -1,0 +1,9 @@
+.test{
+  height:75%;
+  width:75%;
+}
+body{
+  background-image: url(../images/Bitmap.png);
+  text-align: center;
+  padding-top: 100;
+}
